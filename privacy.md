@@ -65,7 +65,7 @@ If this policy changes in a future version of Corvo, the updated policy will be 
 
 ## Contact
 
-Questions about privacy? Contact us at **[parhamkarbasi@icloud.com](mailto:parhamkarbasi@icloud.com)**
+Questions about privacy? Contact us at **[parhamkarbasi@icloud.com](mailto:parham.karbasi78@gmail.com)**
 
 ---
 
