@@ -63,6 +63,15 @@ If this policy changes in a future version of Corvo, the updated policy will be 
 
 ---
 
+## In-App Purchases
+
+Corvo offers an optional premium subscription (monthly or annual). All payments are 
+processed securely by Apple via StoreKit. We never see, store, or have access to your 
+payment information. Subscription management and cancellation are handled through your 
+Apple ID settings.
+
+---
+
 ## Contact
 
 Questions about privacy? Contact us at **[parhamkarbasi@icloud.com](mailto:parham.karbasi78@gmail.com)**
